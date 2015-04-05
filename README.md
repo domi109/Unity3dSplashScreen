@@ -12,3 +12,17 @@ The game launcher will execute the Unity3D game minimized. The startup scene (us
 The structure is: Game folder, game launcher, sub folder for Unity game. Everything is customizable.
 
 Please share this with your friends and promote it everywhere. It’s free software and you never will have to pay for it. If you got this game launcher from somewhere else having to pay money for it then I take no responsibility for it that you get your money back.
+
+Setup guide:
+
+Your Unity game has a unique name, so you need to change the code inside Visual Studio to reflect that. Look for the following line of code and change it:
+
+ExternalProcess.StartInfo.FileName = (@"Game\Unity.exe"); // Unity.exe = game name
+
+change Unity.exe to whatever your game name is.
+
+You may also add buttons to the game launcher like Quit and start game etc.. You can do this in the designer by also adding a different picture and URL links and what not.
+
+Have fun with a more professional look and feel for your Unity games.
+
+released under public domain by Domi Rosenberger
