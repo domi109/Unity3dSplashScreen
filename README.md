@@ -11,7 +11,7 @@ The game launcher will execute the Unity3D game minimized. The startup scene (us
 
 The structure is: Game folder, game launcher, sub folder for Unity game. Everything is customizable.
 
-Please share this with your friends and promote it everywhere. It’s free software and you never will have to pay for it. If you got this game launcher from somewhere else having to pay money for it then I take no responsibility for it that you get your money back.
+Please share this with your friends and promote it everywhere. It’s free software under public domain license and you never will have to pay for it here on github. If you got this game launcher from somewhere else having to pay money for it then I take no responsibility for it that you get your money back, instead inform your friends that this software is free available here, but you are allowed to charge money for it, of cause according to the PD-license.
 
 Setup guide:
 
