@@ -1,0 +1,9 @@
+c:\users\domi\documents\visual studio 2013\Projects\GAME\GAME\bin\Release\GAME.exe.config
+c:\users\domi\documents\visual studio 2013\Projects\GAME\GAME\bin\Release\GAME.exe
+c:\users\domi\documents\visual studio 2013\Projects\GAME\GAME\bin\Release\GAME.pdb
+c:\users\domi\documents\visual studio 2013\Projects\GAME\GAME\obj\Release\GAME.Form1.resources
+c:\users\domi\documents\visual studio 2013\Projects\GAME\GAME\obj\Release\GAME.Properties.Resources.resources
+c:\users\domi\documents\visual studio 2013\Projects\GAME\GAME\obj\Release\GAME.csproj.GenerateResource.Cache
+c:\users\domi\documents\visual studio 2013\Projects\GAME\GAME\obj\Release\GAME.exe
+c:\users\domi\documents\visual studio 2013\Projects\GAME\GAME\obj\Release\GAME.pdb
+C:\Users\Domi\documents\visual studio 2013\Projects\GAME\GAME\obj\Release\GAME.csprojResolveAssemblyReference.cache
